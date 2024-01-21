@@ -1,1 +1,1 @@
-# Typesetter-Plugins
+# Typesetter-Plugins  - for installation under /addons
